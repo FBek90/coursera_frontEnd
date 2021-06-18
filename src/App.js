@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Navbar, NavbarBrand } from 'reactstrap'
-import Menu from './components/Menu/Menu'
+import Menu from './components/Menu/MenuComponents'
 import { Dishes } from './mockData/dishes'
 
 class App extends Component {
